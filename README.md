@@ -4,3 +4,4 @@ This repository contains the backend code for the FindMyWheels project, which is
 
 # How it works
 The api.py handles all the API requests for car data processing. It communicates with the Firebase Realtime Database and processes the images with Gemini-Vision for detecting car details. This module is crucial for the real-time functionality of the FindMyWheels system.
+![image](https://github.com/SidmoGoesBrrr/FindMyWheels-Backend/assets/60550481/9dea49a9-2800-48e2-b8a0-53da3b1d663a)
